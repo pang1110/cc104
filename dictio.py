@@ -7,3 +7,4 @@ for value in {"name":"Ken", "age":67}:
 for key, value in {"name":"Ken", "age":67}:
     print(key, value)
 
+
